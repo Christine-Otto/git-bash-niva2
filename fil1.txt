@@ -1,1 +1,2 @@
+Denna rad kommer från ny-feature-branch.
 Detta är min första fil i Git Bash nivå 2.
